@@ -1,0 +1,5 @@
+﻿  IntervalTreeRB.cpp
+D:\Мої документи\ПРЕДМЕТИ\ІІ курс\Алгоритми та складність\II семестр\IntervalTree\IntervalTreeRB\IntervalTreeRB\Pair.h(28): warning C4715: Pair<double,double>::getInterval: значение возвращается не при всех путях выполнения
+D:\Мої документи\ПРЕДМЕТИ\ІІ курс\Алгоритми та складність\II семестр\IntervalTree\IntervalTreeRB\IntervalTreeRB\Node.h(105): warning C4715: Node<double,double>::getMax: значение возвращается не при всех путях выполнения
+D:\Мої документи\ПРЕДМЕТИ\ІІ курс\Алгоритми та складність\II семестр\IntervalTree\IntervalTreeRB\IntervalTreeRB\Node.h(92): warning C4715: Node<double,double>::getParent: значение возвращается не при всех путях выполнения
+  IntervalTreeRB.vcxproj -> D:\Мої документи\ПРЕДМЕТИ\ІІ курс\Алгоритми та складність\II семестр\IntervalTree\IntervalTreeRB\Debug\IntervalTreeRB.exe
